@@ -6,7 +6,11 @@
         
 <?php include "include/adminNavigation.php"; ?>               
         
+<<<<<<< HEAD
         <button class="qwe" onclick="hello()">Hello</button>
+=======
+        
+>>>>>>> 4390161d9d2d49dba254c865920cba6acbb0f88b
 
         <div id="page-wrapper">
 

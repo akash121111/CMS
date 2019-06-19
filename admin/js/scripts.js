@@ -57,9 +57,13 @@ function loadUserOnline(){
     	 loadUserOnline();
     	 },500); 
 
+<<<<<<< HEAD
 
 function hello(){
 	$(".Content").addclass("asd");
 }
+=======
+   
+>>>>>>> 4390161d9d2d49dba254c865920cba6acbb0f88b
 
 

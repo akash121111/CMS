@@ -44,9 +44,12 @@
                         <a href="registration.php">Register</a>
                     </li>
                     
+<<<<<<< HEAD
                     <li>
                         <a href="Contact.php">Contact us</a>
                     </li>
+=======
+>>>>>>> 4390161d9d2d49dba254c865920cba6acbb0f88b
                     <?php
                     
                     if(isset($_SESSION['userRole'])){
